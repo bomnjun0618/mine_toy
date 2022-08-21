@@ -6,7 +6,8 @@ int main(void)
 {
 	long long	income, kook, gun, jang, go, all;
 	
-	printf("\n\t4대보험 요율\n\n");
+	printf("\n\t22년 4대보험 계산기\n");
+	printf("\t22년 08월 기준입니다.\n\n");
 	printf("\t국민연금-> 4.5%%\n\n");
 	printf("\t건강보험-> 3.495%%\n\n");
 	printf("\t장기요양보험 -> 12.27%%\n\n");
